@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 /**
  * main - entry point
  *
@@ -13,7 +13,3 @@ printf("Size of a long long int: %d byte(s)\n", sizeof(long long int));
 printf("Size of a float: %d byte(s)\n", sizeof(float));
 return (0);
 }
-© 2022 GitHub, Inc.
-Footer navigation
-
-
